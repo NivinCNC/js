@@ -1,3 +1,7 @@
+## [1.0.9](https://github.com/pct-org/kat-api-pt/compare/v1.0.8...v1.0.9) (2021-09-05)
+
+
+
 ## [1.0.8](https://github.com/pct-org/kat-api-pt/compare/v1.0.7...v1.0.8) (2020-04-17)
 
 
@@ -21,15 +25,6 @@
 
 
 ## [1.0.5](https://github.com/pct-org/kat-api-pt/compare/v1.0.4...v1.0.5) (2019-12-21)
-
-
-
-## [1.0.4](https://github.com/pct-org/kat-api-pt/compare/v1.0.3...v1.0.4) (2019-12-21)
-
-
-### Bug Fixes
-
-* Fixed having round totalPages ([d7fc54e](https://github.com/pct-org/kat-api-pt/commit/d7fc54e63a797c42917993bf2635fcf56e2f355b))
 
 
 
